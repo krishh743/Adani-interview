@@ -1,3 +1,6 @@
+solution 2: using java for compilation.
+
+
 public class increment {
 	public static void partition(int[] a, int lo, int hi) {
 		int i = lo;
